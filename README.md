@@ -137,6 +137,6 @@ Each SQL file corresponds to a specific assessment question:
 
 To run the queries, you can use any SQL client that supports MySQL. Below are some recommended software tools:
 
-* **MySQL Workbench** 
+* **MySQL Workbench** (Recommended for a GUI-based experience)
 * **phpMyAdmin** (Web-based MySQL interface)
 * **Command Line Interface (CLI)** (Direct SQL execution via terminal)
